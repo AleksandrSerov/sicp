@@ -3,8 +3,7 @@
 (#%require rackunit)
 
 (define solution
-  (/ (+ 5
-        4
+  (/ (+ 5 4
         (- 2
            (- 3
               (+ 6
